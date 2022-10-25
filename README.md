@@ -2,6 +2,8 @@
 
 This is a port of decay for [spicetify](https://spicetify.app)
 
+![decayce](./.assets/decayce.png)
+
 ## Installation
 
 First install spicetify and run `spicetify backup apply` (see the spicetify installation instructions).
